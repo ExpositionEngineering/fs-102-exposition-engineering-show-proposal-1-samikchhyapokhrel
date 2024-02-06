@@ -66,6 +66,11 @@ A show talking about all the various majors and minors you can have and still be
 TODO: Write at least three to five paragraphs that describe the content of the
 episode, ensuring that the description is both engaging and informative.
 
+In the beginnig of the episode I would like to start off by introducing the content that I will be talking about while also introducing KP and ask her to talk a bit about what she does as a pre-health advisor. I want monst of the begining to be about just introducing what pre-health is and what it means to be on the pre-health journey at a private liberal arts school. This is where I will ask questions reguarding what being pre-health means, how do you collaborate with your advisor, and what are common majors that people ususlly pick as pre-health students. 
+
+After we start to introduce the common majors that people pick for pre-health, I want to move the conversation to how you can have a variety of majors outside of just the basic sciences and still be a pre-health major. I want to talk about the pro's and con's of deciding to have a unique major. I also want to bring up the question of if KP would reccomend having a differnt major if she belives that something in the sciences would be better. Towrads the end I want to ask/talk about what major and minor combinations she beleves would be best for pre-health and people's future carrers. 
+
+Towards the end of our conversation I want to talk about the how these potential majors/minors can affect students in the future. How useful are they really after collge graduation? Are graduate/medical schools looking for unique majors or do they not care as much? What extracirruculars should students be focusing on to better stand out? Finally I wish to end the show with asking KP to tell the audience what she believes is the single most important peice of advice that all pre-health students should know. 
 
 
 ## 📢 Call to Action
