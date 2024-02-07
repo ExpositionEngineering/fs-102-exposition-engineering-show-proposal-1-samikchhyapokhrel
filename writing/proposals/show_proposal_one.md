@@ -66,7 +66,7 @@ Towards the end of our conversation I want to talk about the how these potential
 
 ## 📢 Call to Action
 
-I want anyone who is considering going on the pre-health route and is unsure about how to get there or what to major in to gain some clarity. There are so many differnt opionins and sources that say so many differnt things that it can be really confusing. I want this episode to be a starting point for incoming students to go to so that they don't have to start their journey confused. 
+- **Call to Action**: I want anyone who is considering going on the pre-health route and is unsure about how to get there or what to major in to gain some clarity. There are so many differnt opionins and sources that say so many differnt things that it can be really confusing. I want this episode to be a starting point for incoming students to go to so that they don't have to start their journey confused. 
 
 
 ## 🦜 References
