@@ -5,16 +5,16 @@
 <!---toc start-->
 
 * [Show Proposal One](#show-proposal-one)
-  * [✨ Table of Contents](#-table-of-contents)
-  * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
-  * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
-  * [🏁 One Sentence Pitch](#-one-sentence-pitch)
-  * [🔬 Show Details](#-show-details)
-  * [📝 Show Objectives](#-show-objectives)
-  * [📚 Sample Questions](#-sample-questions)
-  * [🎉 Show Description](#-show-description)
-  * [📢 Call to Action](#-call-to-action)
-  * [🦜 References](#-references)
+* [✨ Table of Contents](#-table-of-contents)
+* [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
+* [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
+* [🏁 One Sentence Pitch](#-one-sentence-pitch)
+* [🔬 Show Details](#-show-details)
+* [📝 Show Objectives](#-show-objectives)
+* [📚 Sample Questions](#-sample-questions)
+* [🎉 Show Description](#-show-description)
+* [📢 Call to Action](#-call-to-action)
+* [🦜 References](#-references)
 
 <!---toc end-->
 
@@ -23,7 +23,6 @@
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
 I adhered to the Allegheny College Honor Code while completing this project.  
-
 
 
 **IMPORTANT:** If you do not type the required sentence then the course
@@ -36,16 +35,11 @@ A show talking about all the various majors and minors you can have and still be
 
 ## 🔬 Show Details
 
-
-
-
 - **Title**: KP on the Variety of Pre-Health Majors 
 - **Host**: Samikchhya
 - **Guest**: Kirsten Peterson our Pre-Health Advisor 
 
 ## 📝 Show Objectives
-
-
 
 - **Objective One**: Introduce how the process of going into medicine works. 
 - **Objective Two**: Talk about how there are a variety of majors and minors that can still get you into medicine.
@@ -73,7 +67,6 @@ Towards the end of our conversation I want to talk about the how these potential
 ## 📢 Call to Action
 
 I want anyone who is considering going on the pre-health route and is unsure about how to get there or what to major in to gain some clarity. There are so many differnt opionins and sources that say so many differnt things that it can be really confusing. I want this episode to be a starting point for incoming students to go to so that they don't have to start their journey confused. 
-
 
 
 ## 🦜 References
