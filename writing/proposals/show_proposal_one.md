@@ -69,5 +69,7 @@ Towards the end of our conversation I want to talk about the how these potential
 ## 🦜 References
 
 - **Reference One**: <https://sites.allegheny.edu/registrar/academic-programs/majors/>
+
 - **Reference Two**: <https://sites.allegheny.edu/health/advising-requirements/>
+
 - **Reference Three**: <https://www.prospectivedoctor.com/what-is-the-best-major-for-premeds/#:~:text=2.,such%20as%20education%20and%20research.>
