@@ -6,7 +6,7 @@
 
 * [Show Proposal One](#show-proposal-one)
 * [✨ Table of Contents](#-table-of-contents)
-* [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
+* [Gregory M. Kapfhammer] (#gregory-m-kapfhammer)
 * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
 * [🏁 One Sentence Pitch](#-one-sentence-pitch)
 * [🔬 Show Details](#-show-details)
@@ -23,7 +23,6 @@
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
 I adhered to the Allegheny College Honor Code while completing this project.
-
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -63,11 +62,9 @@ After we start to introduce the common majors that people pick for pre-health, I
 
 Towards the end of our conversation I want to talk about the how these potential majors/minors can affect students in the future. How useful are they really after collge graduation? Are graduate/medical schools looking for unique majors or do they not care as much? What extracirruculars should students be focusing on to better stand out? Finally I wish to end the show with asking KP to tell the audience what she believes is the single most important peice of advice that all pre-health students should know.
 
-
 ## 📢 Call to Action
 
 - **Call to Action**: I want anyone who is considering going on the pre-health route and is unsure about how to get there or what to major in to gain some clarity. There are so many differnt opionins and sources that say so many differnt things that it can be really confusing. I want this episode to be a starting point for incoming students to go to so that they don't have to start their journey confused.
-
 
 ## 🦜 References
 
